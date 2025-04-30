@@ -9,13 +9,9 @@ for(int i=0; i<t; i++){
 }
 for(int i=1; i<t; i++){
     int j=i;
-    while(j>=1 ){
-        if(v[j]>v[j-1]){break;}
-        if(v[j]<v[j-1])
-        {
+    while(j>=1  && v[j]<v[j-1]){
             swap(v[j],v[j-1]);
             j--;
-        }
     }
 
 }
