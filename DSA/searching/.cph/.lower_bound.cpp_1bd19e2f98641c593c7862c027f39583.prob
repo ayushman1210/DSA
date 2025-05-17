@@ -1,0 +1,1 @@
+{"name":"Local: lower_bound","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\searching\\lower_bound.cpp","tests":[{"id":1747159186199,"input":"5\n1 4 6 8 9\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\searching\\lower_bound.cpp","group":"local","local":true}
