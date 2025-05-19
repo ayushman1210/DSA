@@ -11,6 +11,15 @@ int large=INT_MIN;
 int slarge=INT_MIN;
 int tlarge=INT_MIN;
 for(int i=0; i<t; i++){
-    if(v[i]>large){large=v[i]; slarge=large; tlarge=slarge;}
+   if(large<v[i]){large=v[i];}
 }
+for(int i=0; i<t; i++){
+    if(v[i]!=large && slarge<v[i]){slarge=v[i];}
+}
+for(int i=0; i<t; i++){
+    if(v[i]!=slarge && tlarge<v[i] && v[i]!=large){tlarge=v[i];}
+}
+cout<<large<<endl;
+cout<<slarge<<endl;
+cout<<tlarge;
 }

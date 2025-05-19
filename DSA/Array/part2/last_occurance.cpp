@@ -7,13 +7,11 @@ vector<int>v(t);
 for(int i=0; i<t; i++){
     cin>>v[i];
 }
-int large=INT_MIN;
-int slarge=-1;
+int x;
+cin>>x;
+int idx=-1;
 for(int i=0; i<t; i++){
-if(v[i]>large){
-    slarge=large;
-    large=v[i]; 
+    if(v[i]==x){idx=i;}
 }
-}
-cout<<large<<slarge;
+cout<<idx;
 }
