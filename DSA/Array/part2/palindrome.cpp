@@ -18,3 +18,5 @@ while(i<=j){
 if(flag){cout<<"its palindrome";}
 else{cout<<"not palindrome";}
 }
+
+//part 2 completed 
