@@ -16,7 +16,7 @@ vector<int>v(t);
 for(int i=0; i<t; i++){
     cin>>v[i];
 }
-v=duplicate(v);
+duplicate(v);
 for(int i=0; i<v.size(); i++){
     cout<<v[i];
 }
