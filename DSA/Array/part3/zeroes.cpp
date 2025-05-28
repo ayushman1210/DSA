@@ -26,3 +26,5 @@ for(int i=0; i<t; i++){
     cout<<v[i];
  }
 }
+// TC-->o(n);
+// SC-->o(1);
