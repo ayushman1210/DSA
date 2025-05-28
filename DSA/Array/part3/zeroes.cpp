@@ -2,15 +2,17 @@
 using namespace std;
  void moveZeroes(vector<int>& nums) {
         int n=nums.size();
-    int i=0; 
-    int j=n-1;
-    while(i<=j){
-        if(nums[i]==0){
-            swap(nums[i],nums[j]);
-            i++;
-            j--;
+        int j=-1;
+        for(int i=0; i<n; i++){
+            if(nums[i]==0){j=i; break;}
         }
-    }
+        for(int i=j+1; i<n; i++){
+            if(nums[i]!=0){
+                swap(nums[i],nums[j]);
+                j++;
+            }
+        }
+
     }
 int main(){
 int t;
