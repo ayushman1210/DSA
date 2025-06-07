@@ -1,0 +1,1 @@
+{"name":"Local: coin_piles","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\coin_piles.cpp","tests":[{"id":1748951194985,"input":"6\n2 1 \n2 2\n2 3\n2 4\n2 5\n2 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\coin_piles.cpp","group":"local","local":true}
