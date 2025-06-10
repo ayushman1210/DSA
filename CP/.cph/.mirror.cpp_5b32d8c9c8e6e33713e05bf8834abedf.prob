@@ -1,0 +1,1 @@
+{"name":"Local: mirror","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\mirror.cpp","tests":[{"id":1749582332134,"input":"3 3\n2 3 5\n7 9 20\n35 1 12\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\mirror.cpp","group":"local","local":true}
