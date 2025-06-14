@@ -1,0 +1,1 @@
+{"name":"Local: hashing","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\hashing\\hashing.cpp","tests":[{"id":1749753186736,"input":"5\n1 2 3 3 2\n3\n1\n2\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\hashing\\hashing.cpp","group":"local","local":true}
