@@ -1,0 +1,1 @@
+{"name":"Local: search_matrix","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\search_matrix.cpp","tests":[{"id":1749919940417,"input":"2 2\n1 2\n3 4\n10\n\n","output":"will not take number\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\search_matrix.cpp","group":"local","local":true}
