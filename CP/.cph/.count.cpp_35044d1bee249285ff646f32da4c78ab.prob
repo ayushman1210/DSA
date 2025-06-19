@@ -1,0 +1,1 @@
+{"name":"Local: count","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\count.cpp","tests":[{"id":1750353924917,"input":"2\n5\n1 4 2 3 5\n1\n5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\CP\\count.cpp","group":"local","local":true}
