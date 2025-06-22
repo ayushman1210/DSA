@@ -10,6 +10,7 @@ cin>>v[i];
 }
 
  //bruteforce approch 
+ 
 // int mini=INT_MAX;
 // int idx=-1;
 // for(int i=0; i<t; i++){
