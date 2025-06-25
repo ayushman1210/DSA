@@ -1,0 +1,1 @@
+{"name":"Local: cp","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\sorting\\cp.cpp","tests":[{"id":1750863125463,"input":"3\n4\n1 1 2 2\n4\n1 1 1 1\n5\n1 2 1 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\sorting\\cp.cpp","group":"local","local":true}
