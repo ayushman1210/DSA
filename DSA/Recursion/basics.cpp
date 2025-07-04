@@ -50,8 +50,8 @@ int main(){
 // cout<<add(3,2);
 // sum(2,3); 
 // cout<<factorial(3);
-// print(5);
-// Prin(5);
+print(5);
+Prin(5);
 // int n; cin>>n;
 // cout<<sum1(1,n);
 // cout<<sum2(5);

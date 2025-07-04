@@ -1,0 +1,1 @@
+{"name":"Local: tee","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\binary_search\\tee.cpp","tests":[{"id":1751608509598,"input":"2\n2\n3 2\n3\n10 5 2","output":"2 3\n2 10 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\DSA\\binary_search\\tee.cpp","group":"local","local":true}
