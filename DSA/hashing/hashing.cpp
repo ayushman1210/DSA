@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 int t;
 cin>>t;
-int hash[t+1]={0};
+int hash[t]={0};
 int arr[t];
 for(int i=0; i<t; i++){
     cin>>arr[i];
