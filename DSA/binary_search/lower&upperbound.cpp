@@ -13,19 +13,23 @@ cin>>x;
 int low=0;
 int high =t-1;
 int idx=t;
-while(low<=high){
-    int mid=(low+high)/2;
+// while(low<=high){
+    // int mid=(low+high)/2;
 
     // if(v[mid]>=x){idx=mid; high=mid-1;}
     // else{
     //     low=mid+1;
     // }
-    if(v[mid]>x){idx=mid; high=mid+1;}
-    else{low=mid-1;}
-}
-cout<<idx;
 
-// upperbound 
+    //upperbound 
+    // if(v[mid]>x){idx=mid; high=mid+1;}
+    // else{low=mid-1;}
 
 
+// }
+// cout<<idx;
+
+int lb=lower_bound(v.begin(), v.end(), x)-v.begin();
+int ub=upper_bound(v.begin(), v.end(), x)-v.begin();
+cout<<ub<<lb;
 }
