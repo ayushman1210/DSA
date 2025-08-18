@@ -22,7 +22,7 @@ int last=upper_bound(v.begin(),v.end(), x)-v.begin();
 
 if(first==n || v[first]!=x){first=-1; last=0;}
 cout<<first<<" "<<last-1;
-
+cout<<first+last-1-1;
 // using raw binary search 
 
 
