@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\cp\\hello.cpp","tests":[{"id":1760555987817,"input":"4\n2\n1 1\n4\n1 8 10 13\n3\n1 3 2\n3\n1 9 14\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\cp\\hello.cpp","group":"local","local":true}
