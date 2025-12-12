@@ -22,6 +22,12 @@ void max(vector<int> &v, int idx, int maxi){
     max(v,idx+1,maxi);
 }
 
+int amax(vector<int>&v, int idx){
+    if (idx==v.size()){return INT_MIN;}
+    return max(v[idx],amax(v,idx+1));
+}
+
+
 int main(){
 int n;
  cin>>n;

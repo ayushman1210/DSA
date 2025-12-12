@@ -1,0 +1,1 @@
+{"name":"Local: 37","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\dsa\\binarysearch\\37.cpp","tests":[{"id":1756825915576,"input":"3\n5\n1 5 7 9 11\n2 3 4 5 10\n9 10 12 14 16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\dsa\\binarysearch\\37.cpp","group":"local","local":true}
