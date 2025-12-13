@@ -1,0 +1,1 @@
+{"name":"Local: gravity","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\dsa\\arc\\gravity.cpp","tests":[{"id":1765608634636,"input":"4\n3 2 1 2","output":"1 2 2 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\dsa\\arc\\gravity.cpp","group":"local","local":true}
