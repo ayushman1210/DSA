@@ -1,0 +1,1 @@
+{"name":"Local: primes","url":"/home/ayushman1210/DSA/cp/number_theory/primes.cpp","tests":[{"id":1777067378753,"input":"3\n4 5 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ayushman1210/DSA/cp/number_theory/primes.cpp","group":"local","local":true}

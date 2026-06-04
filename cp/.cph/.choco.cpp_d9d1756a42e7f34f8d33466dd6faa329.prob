@@ -1,0 +1,1 @@
+{"name":"Local: choco","url":"/home/ayushman1210/DSA/cp/choco.cpp","tests":[{"id":1776988980353,"input":"5\n1 2 1 3 6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ayushman1210/DSA/cp/choco.cpp","group":"local","local":true}

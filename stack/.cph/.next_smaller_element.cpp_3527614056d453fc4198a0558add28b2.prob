@@ -1,0 +1,1 @@
+{"name":"Local: next_smaller_element","url":"/home/ayushman1210/DSA/stack/next_smaller_element.cpp","tests":[{"id":1770451917691,"input":"3 1 2 5 4 6 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ayushman1210/DSA/stack/next_smaller_element.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 0_matrix","url":"/home/ayushman1210/DSA/2d/0_matrix.cpp","tests":[{"id":1775023210924,"input":"3\n3\n1 0 1\n1 1 0 \n1 1 1 \n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ayushman1210/DSA/2d/0_matrix.cpp","group":"local","local":true}
